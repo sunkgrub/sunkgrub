@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning how to use git and html
 - 💞️ I’m looking to collaborate on nothing currently
 - 📫 How to reach me @ sunkgrub@gmail.com
-- 😄 Pronouns: 
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: Favorite animal is a big fin squid
 
 <!---
